@@ -1,0 +1,32 @@
+{
+  "itineraries": [
+    {
+      "selectedPark": "Overmountain Victory National Historic Trail",
+      "selectedEat": "Louis' Lunch",
+      "selectedAttraction": "Snake World",
+      "nameType": "Best Trip Ever!",
+      "id": 18
+    },
+    {
+      "selectedPark": "Stones River National Battlefield",
+      "selectedEat": "Union Oyster House",
+      "selectedAttraction": "Elvis Memorial Chapel",
+      "nameType": "Road Trip w/ Grandpa",
+      "id": 19
+    },
+    {
+      "selectedPark": "Jewel Cave National Monument",
+      "selectedEat": "Wall Drug",
+      "selectedAttraction": "Wax Last Supper",
+      "nameType": "Christmas 2020",
+      "id": 20
+    },
+    {
+      "selectedPark": "Trail Of Tears National Historic Trail",
+      "selectedEat": "The Old Clam House",
+      "selectedAttraction": "Where Kurt Cobain Lived in a Refrigerator Box",
+      "nameType": "Romance 101",
+      "id": 21
+    }
+  ]
+}

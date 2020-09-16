@@ -1,0 +1,181 @@
+
+
+.logo {
+    width: 10em;
+}
+
+.mainLine {
+    font-family: 'Love Ya Like A Sister', cursive;
+    align-self: center;
+    font-size: 36px;
+}
+
+.spacer {
+    width: 10%
+}
+
+.textHeader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: -3.5%;
+}
+
+.subHeader {
+    margin: -26px;
+    display: flex;
+    justify-self: center;
+    margin-left: 17.5%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filters {
+    display: flex;
+    flex-flow: row;
+    background-color: #68b0ab;   
+}
+
+.state-dropdown {
+    width: 300px;
+
+}
+
+button {
+    float: right; 
+}
+
+
+/* //drop down font */
+select {
+    padding: 5px 8px;
+    background-color: #68b0ab;
+    border: none;
+    color: white;
+}
+
+.select:focus,
+.select:hover {
+    outline: none;
+    border: 1px solid #006a71
+}
+
+.itinerary {
+    background-color: #ecf4f3;
+    width: 30%;
+    padding: 10px;
+    height: 100%;
+    margin-bottom: 2em; 
+}
+
+#tripName {
+    width: 100%;
+}
+
+.selectedAttraction {
+    margin: 4em 0em 4em 0em;
+}
+
+.selectedEat {
+    margin-bottom: 3em;
+}
+
+.breakBox {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.details {
+    margin: 2em;
+    width: 45%;
+}
+
+.parkPhoto {
+    max-width: 100%;
+    margin-top: -2em;
+    margin-bottom: -0.5em;
+}
+
+.weatherBox {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: .25em; 
+}
+
+.card-day {
+    text-align: center;
+    width: 20%;
+}
+
+.icons {
+    max-width: 65px;
+}
+
+.detailsBox:empty {
+    display: none;
+}
+
+
+.detailsBox {
+    padding: 1em;
+    margin-top: 1em;
+    background-color: white;
+    margin-top: 2em; 
+}
+
+.saved {
+    width: 15%;
+    background-color: #ecf4f3;
+    margin-bottom: 2em; 
+    padding: 1em; 
+    display: flex; 
+    flex-direction: column;
+}
+
+.tripCard {
+    margin-top: -2em;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.savedTrip {
+    color: #ff7e67;
+}
+
+li {
+    font-size: 10px;
+    text-align: left;
+}
+
+ul {
+    margin-top: -1em;
+}
+
+
+
+footer {
+    background-color:	#6d9c7d;
+    width: 100%;
+    padding: .25em;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: .85em;
+}
+
